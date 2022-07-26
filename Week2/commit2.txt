@@ -1,1 +1,2 @@
 This is the second file I created to practise Git
+Changes maed
